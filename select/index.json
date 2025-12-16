@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Ain’t In Kansas Anymore",
+  "base_artist": "Miranda Lambert",
+  "createdAt": "2025-12-16T14:20:45.267684Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ain’t In Kansas Anymore",
+      "artist": "Miranda Lambert",
+      "has_synced": true,
+      "path": "select/01_Ain’t_In_Kansas_Anymore_Miranda_Lambert.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ain’t In Kansas Anymore",
+      "artist": "Miranda Lambert",
+      "has_synced": true,
+      "path": "select/02_Ain’t_In_Kansas_Anymore_Miranda_Lambert.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ain't In Kansas Anymore",
+      "artist": "Miranda Lambert",
+      "has_synced": true,
+      "path": "select/03_Ain't_In_Kansas_Anymore_Miranda_Lambert.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ain't in Kansas Anymore from Twisters Movie",
+      "artist": "a Lambert",
+      "has_synced": true,
+      "path": "select/04_Ain't_in_Kansas_Anymore_from_Twisters_Movie_a_Lambert.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ain’t in Kansas Anymore (From \"Twisters: The Album\")",
+      "artist": "Miranda Lambert",
+      "has_synced": true,
+      "path": "select/05_Ain’t_in_Kansas_Anymore_(From__Twisters__The_Album_)_Miranda_Lambert.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ain’t In Kansas Anymore (From Twisters The Album)",
+      "artist": "Miranda Lambert",
+      "has_synced": true,
+      "path": "select/06_Ain’t_In_Kansas_Anymore_(From_Twisters_The_Album)_Miranda_Lambert.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ain’t in Kansas Anymore (From \"Twisters: The Album\")",
+      "artist": "Miranda Lambert",
+      "has_synced": true,
+      "path": "select/07_Ain’t_in_Kansas_Anymore_(From__Twisters__The_Album_)_Miranda_Lambert.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Ain't in Kansas Anymore (from Twisters Album)",
+      "artist": "a Lambert",
+      "has_synced": true,
+      "path": "select/08_I_Ain't_in_Kansas_Anymore_(from_Twisters_Album)_a_Lambert.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ain’t In Kansas Anymore (From Twisters: The Album)",
+      "artist": "Miranda Lambert",
+      "has_synced": true,
+      "path": "select/09_Ain’t_In_Kansas_Anymore_(From_Twisters__The_Album)_Miranda_Lambert.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ain’t in Kansas Anymore",
+      "artist": "Miranda Lambert",
+      "has_synced": true,
+      "path": "select/10_Ain’t_in_Kansas_Anymore_Miranda_Lambert.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Miranda Lambert - \"I Ain't in Kansas Anymore\" (from Twisters: The Album) [Lyric Video]",
+      "artist": "Miranda Lambert",
+      "has_synced": true,
+      "path": "select/11_Miranda_Lambert_-__I_Ain't_in_Kansas_Anymore__(from_Twisters__The_Album)_[Lyric__Miranda_Lambert.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ain’t In Kansas Anymore (From Twisters: The Album)",
+      "artist": "Miranda Lambert",
+      "has_synced": false,
+      "path": "select/12_Ain’t_In_Kansas_Anymore_(From_Twisters__The_Album)_Miranda_Lambert.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ain't In Kansas Anymore (From Twisters: The Album)",
+      "artist": "Miranda Lambert",
+      "has_synced": false,
+      "path": "select/pl_01_Ain't_In_Kansas_Anymore_(From_Twisters__The_Album)_Miranda_Lambert.txt"
+    }
+  ]
+}
